@@ -1,1 +1,1 @@
-Feature branch content added
+This is a new feature
